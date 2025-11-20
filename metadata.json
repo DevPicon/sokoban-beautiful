@@ -1,0 +1,5 @@
+{
+  "name": "Sokoban React",
+  "description": "A classic warehouse keeper puzzle game. Push boxes to the marked spots with optimized moves. Features 5 levels and a star rating system.",
+  "requestFramePermissions": []
+}
